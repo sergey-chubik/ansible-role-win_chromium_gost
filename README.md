@@ -13,7 +13,7 @@ Role Variables
 --------------
 
 Доступные переменные перечислены вместе со значениями по умолчанию (см. `defaults/main.yml`). 
-# Роль установит и настроит окружение пользователя (UserData.exe), расширениях браузера (chrome://extensions/) для работы в Электронном бюджете и СУФД. На панели закладок необходимо исправить ссылки на адрес сервера СУФД своего региона или исправить файл Bookmarks.
+Роль установит и настроит окружение пользователя (UserData.exe), расширениях браузера (chrome://extensions/) для работы в Электронном бюджете и СУФД. На панели закладок необходимо исправить ссылки на адрес сервера СУФД своего региона или исправить файл Bookmarks.
 Запускать браузер необходимо с ярлыка на рабочем столе!
 
 Dependencies
@@ -38,5 +38,5 @@ BSD
 Author Information
 ------------------
 
-# Chubik Sergey, sergey.chubik@mail.ru.
-# Chubik Sergey, chubik@ekaterinburg.fsin.uis.
+Chubik Sergey, sergey.chubik@mail.ru.
+Chubik Sergey, chubik@ekaterinburg.fsin.uis.
