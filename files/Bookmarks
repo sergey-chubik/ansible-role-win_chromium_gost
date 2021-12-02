@@ -1,0 +1,269 @@
+{
+   "checksum": "927023b4d87d6379c51e26164c10f367",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13246626255000000",
+            "guid": "4a3a394e-1ee4-4208-8a1b-c227d8ea5290",
+            "id": "2",
+            "name": "СУФД",
+            "type": "url",
+            "url": "http://10.62.199.12:28081/"
+         }, {
+            "date_added": "13246626302000000",
+            "guid": "d2cfa435-3f35-4f03-8994-49f8a48a7537",
+            "id": "3",
+            "name": "ГИС ГМП",
+            "type": "url",
+            "url": "http://mun.gmp.fsin.uis:81/d3/"
+         }, {
+            "children": [ {
+               "date_added": "13282215271849706",
+               "guid": "7ac4f46f-6038-43c5-beca-eab6f4104400",
+               "id": "48",
+               "name": "Электронный бюджет Росказна",
+               "type": "url",
+               "url": "https://eb.cert.roskazna.ru/"
+            }, {
+               "date_added": "13282215216829414",
+               "guid": "d45320c8-3cc4-4b21-828b-aede4924957d",
+               "id": "47",
+               "name": "СОБИ Росказна",
+               "type": "url",
+               "url": "https://sobi.cert.roskazna.ru/"
+            }, {
+               "date_added": "13282061910962959",
+               "guid": "0cbbfeb3-2501-4914-9ffe-6e905fac7ad4",
+               "id": "44",
+               "name": "Бюджетное планирование",
+               "type": "url",
+               "url": "https://ebudget.minfin.ru/"
+            }, {
+               "date_added": "13196163417000000",
+               "guid": "0691d4ea-caec-4b79-8232-34a0780ab276",
+               "id": "10",
+               "name": "Бюджетное планирование (старое)",
+               "type": "url",
+               "url": "http://ssl.budgetplan.minfin.ru/"
+            }, {
+               "date_added": "13227879898000000",
+               "guid": "abb04fec-8d00-4662-9f89-c1bfe1f8a097",
+               "id": "12",
+               "name": "Электронный бюджет (старое)",
+               "type": "url",
+               "url": "https://lk.budget.gov.ru/udu-webcenter/"
+            } ],
+            "date_added": "13272453981231767",
+            "date_modified": "13282561781299899",
+            "guid": "b4919c11-0d59-4a82-a756-5a7a52cfdcd7",
+            "id": "9",
+            "name": "Электронный бюджет",
+            "type": "folder"
+         }, {
+            "date_added": "13153830370000000",
+            "guid": "ec77fc04-c843-428d-a231-0b598690546f",
+            "id": "8",
+            "name": "ЕИС Портал Закупок",
+            "type": "url",
+            "url": "https://zakupki.gov.ru/epz/main/public/home.html"
+         }, {
+            "children": [ {
+               "date_added": "13223728396000000",
+               "guid": "61b2e4f0-cc98-4fc1-b8ca-2ea10639ef2d",
+               "id": "24",
+               "name": "Портал госуслуг",
+               "type": "url",
+               "url": "https://www.gosuslugi.ru/"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "53039f0a-c396-4702-bf96-9ef0df07bf6d",
+               "id": "5",
+               "name": "ГАС Управление",
+               "type": "url",
+               "url": "http://gasu.gov.ru/"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "34e2aa76-5d01-4035-915a-f562e3032447",
+               "id": "6",
+               "name": "ГИС ЖКХ",
+               "type": "url",
+               "url": "http://dom.gosuslugi.ru/"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "89bcd10f-5ff6-4f53-b167-6576d2d50576",
+               "id": "7",
+               "name": "ГМУ bus.gov.ru",
+               "type": "url",
+               "url": "http://bus.gov.ru/"
+            } ],
+            "date_added": "13272453981231615",
+            "date_modified": "13282561842910047",
+            "guid": "2a1bc552-e7d4-4778-b985-b17ac76d7412",
+            "id": "4",
+            "name": "ГИСы",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13280666680473969",
+               "guid": "96bc237d-ff23-4d27-9c80-5cfba5cd3f99",
+               "id": "39",
+               "name": "Установка «УЦ СКБ Контур (Экстерн)»",
+               "type": "url",
+               "url": "https://install.kontur.ru/kekep?autorepair"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "e2e5bfbc-cbc8-428c-8969-abc411aa2f55",
+               "id": "20",
+               "name": "Установка «УЦ СКБ Контур (Гос.закупки и Гос.услуги)»",
+               "type": "url",
+               "url": "https://install.kontur.ru/zakupki?autorepair"
+            } ],
+            "date_added": "13280666819944575",
+            "date_modified": "13280666833016596",
+            "guid": "1d5295ab-52d5-4ed5-9d75-5d84503c97f0",
+            "id": "40",
+            "name": "УЦ СКБ Контур",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13223715854000000",
+               "guid": "2d11b841-614d-44d3-a771-08253046f77b",
+               "id": "14",
+               "name": "Sedkazna.ru",
+               "type": "url",
+               "url": "https://sedkazna.ru/"
+            }, {
+               "date_added": "13223715922000000",
+               "guid": "ebcf1505-8b13-4081-896e-1cc606d9e968",
+               "id": "15",
+               "name": "Sedkazna.ru - Форум",
+               "type": "url",
+               "url": "https://sedkazna.ru/forum/index.html"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "76eaed78-160a-4a6e-b368-8adf061ef934",
+               "id": "16",
+               "name": "ЕГРЮЛ открытые сведения",
+               "type": "url",
+               "url": "http://egrul.nalog.ru/"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "6aff62e8-5775-4cb9-8616-eeedeeb298f9",
+               "id": "17",
+               "name": "ЕСИА",
+               "type": "url",
+               "url": "https://esia.gosuslugi.ru/profile/user/"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "1aa57421-9ab8-41b5-a053-d17a7a493abd",
+               "id": "18",
+               "name": "Информация о ходе исполнения ИД",
+               "type": "url",
+               "url": "http://app.roskazna.ru/roskazna/id"
+            }, {
+               "date_added": "13226388805000000",
+               "guid": "aaf61491-e5ce-4774-874d-67e12e64b8d7",
+               "id": "19",
+               "name": "Сервис распространения дистрибутивов",
+               "type": "url",
+               "url": "https://cert.roskazna.ru/distribsvc/#/"
+            }, {
+               "date_added": "13210254042000000",
+               "guid": "10d7a038-647b-428f-b0e6-26d078dc3cc6",
+               "id": "21",
+               "name": "Федеральное казначейство – Портал заявителя",
+               "type": "url",
+               "url": "https://fzs.roskazna.ru/"
+            }, {
+               "date_added": "13153830370000000",
+               "guid": "8a5b0349-9e02-43fe-accc-c79efa49c959",
+               "id": "22",
+               "name": "Федеральное казначейство (Казначейство России)",
+               "type": "url",
+               "url": "http://roskazna.ru/"
+            }, {
+               "date_added": "13227942138000000",
+               "guid": "4f4bb68c-13e8-4f60-984c-98e2931c0f63",
+               "id": "23",
+               "name": "Форум Федерального казначейства - Главная страница",
+               "type": "url",
+               "url": "http://forum.roskazna.ru/"
+            } ],
+            "date_added": "13272453981232071",
+            "date_modified": "13280666680473969",
+            "guid": "d91d63b0-e48c-477d-9e18-a66956a9f075",
+            "id": "13",
+            "name": "Разное",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13272454468048071",
+               "guid": "b19f563b-7402-4b4c-a86d-0bd4fe53b1e5",
+               "id": "26",
+               "name": "Установленные расширения",
+               "type": "url",
+               "url": "chrome://extensions/"
+            }, {
+               "date_added": "13246736702000000",
+               "guid": "534f9be7-5612-44cb-b00c-8aec2e773123",
+               "id": "27",
+               "name": "Force HTTPS (SSL/TLS)",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/detail/force-https-ssltls/gmcndcpdefigilbgpohccbocjdfeakgl?hl=ru"
+            }, {
+               "date_added": "13246736800000000",
+               "guid": "81d53607-fd12-40da-8817-48227655db76",
+               "id": "28",
+               "name": "Jinn Sign Extension 1.2.0.1",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/detail/jinn-sign-extension-1201/ikhljbffpngkpffbiepkmgibcmheojca?hl=ru"
+            }, {
+               "date_added": "13273217120020960",
+               "guid": "d8c47aa3-f68c-4542-8297-7a0898cc5fd3",
+               "id": "29",
+               "name": "Расширение для работы с 1С:Предприятием",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/detail/1centerprise-extension/pbhelknnhilelbnhfpcjlcabhmfangik/related?hl=ru"
+            }, {
+               "date_added": "13246773027000000",
+               "guid": "67267021-195d-4310-90d0-c081ffd62a7c",
+               "id": "30",
+               "name": "Интернет-магазин Chrome - Расширения",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/category/extensions?hl=ru"
+            } ],
+            "date_added": "13272453981232623",
+            "date_modified": "13273217145686604",
+            "guid": "87ccdd18-f70f-45c5-a058-9aa02c57a397",
+            "id": "25",
+            "name": "Расширения",
+            "type": "folder"
+         } ],
+         "date_added": "13272453935640425",
+         "date_modified": "13282561791101541",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13272453935640427",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "36",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13272453935640428",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "37",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

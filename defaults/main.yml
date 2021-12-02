@@ -1,0 +1,12 @@
+---
+# defaults file for win_chromium_gost
+win_chromium_gost_files: "{{ role_path }}/files"
+win_chromium_gost_copy_path: 'C:\temp\chromium\'
+win_chromium_gost_install_package:
+  - UserData.exe
+  - chromium-gost-89.0.4389.128-windows-amd64-installer.exe
+win_chromium_gost_copy_bookmarks_lnk:
+  - name: Bookmarks
+    dest: '%UserProfile%\AppData\Local\Chromium\User Data\Default\'
+  - name: 'Chromium GOST.lnk'
+    dest: '%UserProfile%\Desktop\'

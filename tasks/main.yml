@@ -1,0 +1,29 @@
+---
+# tasks file for win_chromium_gost
+
+- name: win_chromium_gost | Copy install packages in directory temp
+  win_copy:
+    src: "{{ win_chromium_gost_files }}/{{ item }}"
+    dest: "{{ win_chromium_gost_copy_path }}"
+  loop: "{{ win_chromium_gost_install_package }}"
+
+- name: win_chromium_gost | Install Chromium-GOST and folder UserData
+  win_package:
+    path: "{{ win_chromium_gost_copy_path }}{{ item }}"
+    creates_path: '%UserProfile%\AppData\Local\Chromium\Application\chrome.exe'
+    arguments: /S
+    state: present
+  loop: "{{ win_chromium_gost_install_package }}"
+  register: win_chromium_gost_install_package_status
+
+- name: win_chromium_gost | Copy Bookmarks and Desktop links 
+  win_copy:
+    src: "{{ win_chromium_gost_files }}/{{ item.name }}"
+    dest: "{{ item.dest }}"
+  loop: "{{ win_chromium_gost_copy_bookmarks_lnk }}"
+  when: win_chromium_gost_install_package_status.changed
+
+- name: win_chromium_gost | Remove directory temp
+  win_file:
+    path: "{{ win_chromium_gost_copy_path }}"
+    state: absent
